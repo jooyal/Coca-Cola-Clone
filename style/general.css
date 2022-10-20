@@ -1,8 +1,11 @@
+@font-face {
+    font-family: TCCC-UnityHeadline; src: url('../TCCC-UnityHeadline\ Regular.ttf'); }
+
 body {
     height: 1000px;
     background-color: rgb(255, 255, 255);
     position: static;
     margin: 0;
     padding-top: 116px;
-    font-family: TCCC-UnityHeadline;;
+    font-family: TCCC-UnityHeadline;
 }
