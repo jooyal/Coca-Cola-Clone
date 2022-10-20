@@ -1,0 +1,218 @@
+.main-container {
+    display: inline-block;
+    width: 100%;
+}
+
+.main-division {
+    position: relative;
+}
+
+.main-body-image-elements {
+    position: absolute;
+    align-items: center;
+    z-index: 9;
+    top: 115px;
+    width: 100%;
+}
+
+.elements-image-5 {
+    position: absolute;
+    left: 750px;
+
+}
+
+.main-image {
+    width: 100%;
+    margin-top: -30px;
+}
+
+.main-image-3 {
+    height: 100vh;
+    width: 100%;
+    margin-top: -30px;
+}
+
+.main-image-5 {
+    width: 100%;
+    margin-top: -30px;
+    height: 100vh;
+}
+
+.image-text-heading {
+    position: absolute;
+    z-index: 9;
+    width: 300px;
+    left: 120px;
+    font-size: 32px;
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+    line-height: 34px;
+}
+
+.image-text-heading-6 {
+    position: absolute;
+    z-index: 9;
+    width: 300px;
+    margin-top: -100px;
+    left: 120px;
+    font-size: 32px;
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+    line-height: 34px;
+}
+
+.image-text-body {
+    position: absolute;
+    z-index: 9;
+    top: 150px;
+    left: 120px;
+    width: 310px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+}
+
+.image-text-body-3 {
+    position: absolute;
+    z-index: 9;
+    top: 100px;
+    left: 120px;
+    width: 310px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+}
+
+.image-text-body-5 {
+    position: absolute;
+    z-index: 9;
+    top: 120px;
+    left: 120px;
+    width: 310px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+}
+
+.image-text-body-6 {
+    position: absolute;
+    z-index: 9;
+    top: 100px;
+    left: 120px;
+    width: 310px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+}
+
+
+.image-text-bottom {
+    position: absolute;
+    top: 260px;
+    left: 120px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: white;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.image-icon-bottom {
+    position: absolute;
+    top: 262px;
+    left: 250px;
+    height: 16px;
+    transition: .7s;
+}
+
+.image-icon-bottom:hover {
+    top: 262px;
+    left: 262px;
+}
+
+
+.image-text-bottom-5 {
+    position: absolute;
+    top: 320px;
+    left: 120px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: white;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.image-icon-bottom-5 {
+    position: absolute;
+    top: 322px;
+    left: 250px;
+    height: 16px;
+    transition: .7s;
+}
+
+.image-icon-bottom-5:hover {
+    top: 322px;
+    left: 262px;
+}
+
+.image-text-bottom-6 {
+    position: absolute;
+    top: 360px;
+    left: 120px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: white;
+    text-shadow: 3px 3px 10px rgb(0,0,0,0.7);
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.image-icon-bottom-6 {
+    position: absolute;
+    top: 362px;
+    left: 250px;
+    height: 16px;
+    transition: .7s;
+}
+
+.image-icon-bottom-6:hover {
+    top: 362px;
+    left: 262px;
+}
+
+.image-icon-scroll-left {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.image-indicator {
+    position: absolute;
+    right: 20px;
+}
+
+.image-scroll-bottom-icon {
+    position: absolute;
+    left: 630px;
+    bottom: 80px;
+    height: 60px;
+}
+
+.image-scroll-bottom-text {
+    position: absolute;
+    left: 615px;
+    bottom: 45px;
+    color: white;
+}

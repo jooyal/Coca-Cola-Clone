@@ -1,0 +1,52 @@
+.header-container {
+    position: fixed;
+    display: flex;
+    height: 116px;
+    top: 0;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid;
+    border-color: rgb(141, 141, 141);
+    padding-top: 8px;
+    background-color: rgb(255, 255, 255);
+    z-index: 10;
+}
+
+.header-logo-image {
+    height: 60px;
+    padding-top: 8px;
+
+}
+
+.header-menu-container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.header-menu-text {
+    font-family: TCCC-UnityHeadline;
+    color: rgb(55,55,55);
+    text-decoration: none;
+    margin-left: 18px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+}
+
+.header-menu-text:hover {
+border-bottom: red 2px solid;
+}
+
+.header-menu-icon-search {
+    height: 20px;
+    margin-left: 10px;
+}
+
+.header-menu-icon-globe {
+    height: 30px;
+    margin-left: 16px;
+}
